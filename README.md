@@ -1,3 +1,1 @@
-#!/bin/bash
-Desarrollo del proyecto 0.00-shellbasics
-\n
+development of project 0x00-shell
