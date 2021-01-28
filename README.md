@@ -1,4 +1,3 @@
 #!/bin/bash
-# holberton-system_engineering-devops
-describe lo que hace cada script
+Desarrollo del proyecto 0.00-shellbasics
 \n
