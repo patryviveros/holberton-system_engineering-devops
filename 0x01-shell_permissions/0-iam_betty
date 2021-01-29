@@ -1,2 +1,3 @@
 #!/bin/bash
-usermod -1 1000 betty
+usermod -1 
+5
