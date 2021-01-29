@@ -1,0 +1,2 @@
+#!/bin/bash
+usermod -1 vagrant betty
